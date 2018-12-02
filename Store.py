@@ -1,7 +1,7 @@
 
 def vpn():
     price = 200
-    print("Vpn | price:", price, "|")
+    print(f"Vpn | price: {price} |)
 
 def HackingPack():
     price = 500
