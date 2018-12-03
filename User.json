@@ -1,0 +1,10 @@
+{
+"User":{
+  "Bank": {
+    "Money": 0
+    },
+    "Reputation": {
+      "Rep": 0
+    }
+  }
+}
